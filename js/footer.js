@@ -11,7 +11,7 @@ $(document).ready(function(e){
 function show_date_time(){
 $('.framework-info').html('小破站已经安全运行<span id="span_dt_dt" style="color: #fff;"></span><div><span>框架 </span><a target="_blank" rel="noopener" href="https://hexo.io">Hexo</a><span> | </span><span>主题 </span><a target="_blank" rel="noopener" href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly</a></div>');
 window.setTimeout("show_date_time()", 1000);
-BirthDay=new Date("5/18/2023 0:0:0");
+BirthDay=new Date("9/1/2023 0:0:0");
 today=new Date();
 timeold=(today.getTime()-BirthDay.getTime());
 sectimeold=timeold/1000
