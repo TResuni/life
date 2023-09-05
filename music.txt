@@ -1,0 +1,20 @@
+{% meting "551400874" "netease" "song" "theme:#FF4081" "mode:circulation" "mutex:true" "listmaxheight:1500px" "preload:auto" %}
+
+<!-- 进阶示例 -->
+{% meting "60198" "netease" "playlist" "autoplay" "mutex:false" "listmaxheight:340px" "preload:none" "theme:#ad7a86"%}
+
+<!-- 使用 MetingJS 插入歌曲列表 -->
+{% meting "001Mf4Ic1aNYYK" "tencent" "album" "order:random" "listmaxheight:180px" %}
+
+{% meting "131506388" "netease" "album" "order:random" "listmaxheight:180px" %}
+
+{% meting "1484312167" "netease" "song" "autoplay" "mutex:false" "listmaxheight:180px" %}
+
+{% meting "2274263150" "netease" "playlist" "order:random" "listmaxheight:360px" %}
+
+
+{% meting "2274263150" "netease" "playlist" "mutex:false" "listmaxheight:220px" "theme:#ad7a86"%}
+
+{% meting "2274263150" "netease" "playlist" "order:random" "autoplay" "mutex:true" "listmaxheight:340px" "preload:none" "theme:#ad7a86"%}
+
+{% meting "8714871445" "netease" "playlist" "autoplay" "mutex:false" "listmaxheight:340px" "preload:none" "theme:#ad7a86"%}

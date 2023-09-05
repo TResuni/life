@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>随笔(一)</title>
+      <link href="/articles/1f2163c7.html"/>
+      <url>/articles/1f2163c7.html</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>喜欢的话当然要记录下来啦 🤔</p></blockquote>    <div id="aplayer-ieqTyvNh" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="1484312167" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="180px" data-preload="auto" data-theme="#ad7a86"    ></div><h3 id="无所求必满载而归"><a href="#无所求必满载而归" class="headerlink" title="无所求必满载而归"></a><code>无所求必满载而归</code></h3><p>我的理解是，当我学会减少期待，降低欲望，往往就会比较容易得到一个好的结果</p><p>我不能对他人有太多的要求，虽然我很想有人能够<span style='color:#49B1F5'>坚定地选择我</span>，<span style='color:#49B1F5'>温柔地对待我</span>，<span style='color:#49B1F5'>善意的开导我</span>，<span style='color:#49B1F5'>认同地夸赞我</span>，但这都是小概率的幸运，就算再亲密的关系，对方也是独立的个体，这之间拥有无数种可能，更别说交情更浅的那些人了。</p><p>而当我不再怀有那么强烈的渴望时，也就不会因为未能如愿而感到伤心或难过了。放下过于强烈的渴望，并不意味着我不再有目标或激情，相反，这是一种更加自由和开放的心态。它让我能够更好地享受过程，专注于当下的行动和经历，而不是过度关注结果，我也可以更加自在地探索和尝试，接受可能的失败，并从中学习和成长。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 喜欢的话 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>快速搭建Hexo博客站+部署上线</title>
       <link href="/articles/d87f7e0c.html"/>
       <url>/articles/d87f7e0c.html</url>
@@ -23,19 +48,6 @@
             <tag> Hexo </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/articles/4a17b156.html"/>
-      <url>/articles/4a17b156.html</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
       
     </entry>
     
